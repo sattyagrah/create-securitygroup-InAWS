@@ -6,7 +6,7 @@ This is a repository to create SG in ALL the enbaled regions in AWS with similar
 1. Download the script to your local machine from the GitHub repository.
 
     ```sh
-    wget https://raw.githubusercontent.com/mrsatya21/create-securitygroup-InAWS/main/createsg.sh
+    wget https://raw.githubusercontent.com/sattyagrah/create-securitygroup-InAWS/main/createsg.sh
     ```
 2. Change the permission of the file - 
     ```sh
